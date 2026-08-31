@@ -1,0 +1,4 @@
+# 원문(복호화된 소스)은 절대 커밋하지 않음 — 로컬에서만 편집/보관
+index.src.html
+build-encrypt.js
+node_modules/
